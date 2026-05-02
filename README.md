@@ -3,9 +3,12 @@
 <div align="center">
   <h1><i>OSINT CHEAT SHEET</i></h1>
   <i>Tools & Methods</i>
+
+  <i><b>OSINT Framework : [EXO_Framework](https://github.com/NotLoBi/EXO_Framework/)</b><i>
+
 </div>
 
-<br><br>
+<br>
 
 <hr>
 <div align="left">
@@ -497,6 +500,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" />&ensp;COMPLETE TOOLS 
 
+  - EXO_Framework : https://github.com/NotLoBi/EXO_Framework
   - recon-ng : https://github.com/lanmaster53/recon-ng
   - spiderfoot : https://github.com/smicallef/spiderfoot
   - maltego : https://www.maltego.com/
