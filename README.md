@@ -183,6 +183,7 @@
     - Skyvector (live map of private flights) : https://skyvector.com/
     - FlightConnection (check the direct flights available at each airport) : https://www.flightconnections.com/
     - FlightAware (check public flights info) : https://www.flightaware.com
+    - Phantom Tide (restricted airspace and incident map) : https://phantom.labs.jamessawyer.co.uk/
     - Crashes database from 2008 to 2021 : https://data.ntsb.gov/carol-main-public/basic-search
     - RZJets (civil and private aviation database) : https://rzjets.net/
     - ADS-B Exchange (all flights live) : https://globe.adsbexchange.com/
@@ -190,6 +191,7 @@
   - <i>MARITIME</i>
     - TrackTrace (live container tracking) : https://www.track-trace.com/container
     - Searates (live container tracking) : https://www.searates.com/container/tracking/
+    - Phantom Tide (maritime activity and incident map) : https://phantom.labs.jamessawyer.co.uk/
     - The Shipping Database (comprehensive maritime vessel database) : https://theshippingdatabase.com/
     - Submarine Cable Map : https://www.submarinecablemap.com/
     - Submarine Tracker : https://www.marinevesseltraffic.com/submarine-vessels-tracking-map
