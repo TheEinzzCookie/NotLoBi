@@ -91,7 +91,7 @@
     - Find people with name, gmail, username : https://com.lullar.com/
     - Scrape Twitter profiles without an account : https://twstalker.com/
     - Get complete insights about a Reddit account : https://snoosnoop.com
-    - Fetch TikTok account information : https://omar-thing.nekoweb.org/
+    - Fetch TikTok user/video/trace/link information : https://tiktok.einzzcookie.org/
       
   - <i>BREACH HUNTERS</i> 
     - h8mail (mails and passwords breach hunter) : https://github.com/khast3x/h8mail
