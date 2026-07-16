@@ -58,41 +58,39 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Bust%20in%20Silhouette.png" alt="Bust in Silhouette" width="25" height="25" />&ensp;SOCMINT / PEOPLE RELATED
 
   - <i>SOCMINT</i>
-    - Ifu (username checker) : https://ifu.app
-    - Search for a person complete information : https://thatsthem.com
-    - Doxbin : https://doxbin.org 
-    - Maigret (find username on multiple medias) : https://github.com/soxoj/maigret/
-    - Sherlock (find username on multiple medias) : https://github.com/sherlock-project/sherlock
-    - PRUDE (find person/username appearances on multiple medias) : https://github.com/NotLoBi/Prude/
-    - Buster (find person/username/mail appearances on multiple medias and breaches) : https://github.com/sham00n/buster
-    - WhatsMyName (find a username on multiple medias) : https://whatsmyname.app/
-    - Ignorant (find if a phone is registred on social medias) : https://github.com/megadose/ignorant
-    - CrossLinked (enumerate Linkedin user to find valid informations) : https://github.com/m8sec/CrossLinked
-    - Epeios (find mails, ID's and phone appearences) : https://epieos.com/
-    - holehe (search an email address on multiple social medias) : https://github.com/megadose/holehe
-    - Find Duolingo user info : https://www.duolingo.com/2017-06-30/users?username={USERNAME_HERE}
-    - Find Tinder user profile : https://www.gotinder.com/@{USERNAME_HERE}
-    - Find Steam user info : https://steamdb.info/calculator/
-    - Find Vinted user info : https://www.vinted.fr/api/v2/users/{USERID_HERE}
-    - GamerTag info lookup : https://tracker.gg/
-    - NameMC (minecraft user lookup) : https://namemc.com/
-    - Roblox OSINT tool : https://github.com/phishontop/bloxsint
-    - Find GitHub user info : https://api.github.com/users/{USERNAME_HERE}
-    - iknowwhereyourcatlives (locate Instagram posts with the #cat) : https://iknowwhereyourcatlives.com/
-    - hunter.io (email finder tool, useful for company employees recon : https://hunter.io/
-    - Skymem (email finder tool) ! https://www.skymem.info
-    - Scribd VPDFS (free scribd document download) : https://scribd.vpdfs.com/
-    - Namechk (username checker) : https://namechk.com/
-    - Usersearch (username checker) : https://usersearch.org
-    - Check usernames (username checker) : https://checkusernames.com/
-    - Instant username (username checker) : https://instantusername.com
-    - Find american people complete info : https://www.zabasearch.com/
-    - Find american people complete info : https://www.idcrawl.com/
-    - Find people with name, gmail, username : https://com.lullar.com/
-    - Scrape Twitter profiles without an account : https://twstalker.com/
-    - Get complete insights about a Reddit account : https://snoosnoop.com
-    - tiktok user finder, you can lookup any tiktok user and fetch info like, region, language, id, etc, and watch stories, highlights, reposts, and more tools on the website : https://omar-thing.site
-    - Fetch TikTok user/video/trace/link information : https://tiktok.einzzcookie.org/
+    - Buster (find person/username/email appearances on multiple media platforms and breaches): https://github.com/sham00n/buster
+    - Check Usernames (username checker): https://checkusernames.com/
+    - CrossLinked (enumerate LinkedIn users to find valid information): https://github.com/m8sec/CrossLinked
+    - Duolingo User Info (find Duolingo user information via API): https://www.duolingo.com/2017-06-30/users?username={USERNAME_HERE}
+    - Epieos (find emails, IDs, and phone number appearances): https://epieos.com/
+    - GitHub User Info (fetch public GitHub user profile details via API): https://api.github.com/users/{USERNAME_HERE}
+    - Holehe (search an email address across multiple social media platforms): https://github.com/megadose/holehe
+    - Hunter.io (email finder tool, useful for corporate directory reconnaissance): https://hunter.io/
+    - I Know Where Your Cat Lives (locate public Instagram posts utilizing the #cat hashtag): https://iknowwhereyourcatlives.com/
+    - ID Crawl (find public information on individuals in America): https://www.idcrawl.com/
+    - Ifu (username checker): https://ifu.app
+    - Ignorant (check if a phone number is registered on social media platforms): https://github.com/megadose/ignorant
+    - Instant Username (username checker): https://instantusername.com
+    - Lullar (find public profiles using a name, Gmail address, or username): https://com.lullar.com/
+    - Maigret (find a specific username across multiple media platforms): https://github.com/soxoj/maigret/
+    - Namechk (username checker): https://namechk.com/
+    - NameMC (Minecraft username lookup): https://namemc.com/
+    - Prude (find person/username appearances across multiple media platforms): https://github.com/NotLoBi/Prude/
+    - Roblox OSINT Tool (Bloxsint) (Roblox account intelligence gathering): https://github.com/phishontop/bloxsint
+    - Scribd VPDFS (Scribd document download utility): https://scribd.vpdfs.com/
+    - Sherlock (find a specific username across multiple media platforms): https://github.com/sherlock-project/sherlock
+    - Skymem (corporate email finder tool): https://www.skymem.info
+    - Snoosnoop (get complete insights and analytics about a Reddit account): https://snoosnoop.com
+    - Steam User Info (Steam profile worth and account calculator): https://steamdb.info/calculator/
+    - That's Them (search for public person directory information): https://thatsthem.com
+    - TikTok Info Fetcher (fetch TikTok user, video, trace, or link information): https://tiktok.einzzcookie.org/
+    - Tinder User Profile (direct web link to a Tinder user profile): https://www.gotinder.com/@{USERNAME_HERE}
+    - Tracker.gg (Gamertag profile and statistic lookup): https://tracker.gg/
+    - Twstalker (view and analyze Twitter profiles without an account): https://twstalker.com/
+    - UserSearch (username checker): https://usersearch.org
+    - Vinted User Info (fetch public Vinted user details via API): https://www.vinted.fr/api/v2/users/{USERID_HERE}
+    - WhatsMyName (find a username across multiple media platforms): https://whatsmyname.app/
+    - ZabaSearch (find public information on individuals in America): https://www.zabasearch.com/
       
   - <i>BREACH HUNTERS</i> 
     - h8mail (mails and passwords breach hunter) : https://github.com/khast3x/h8mail
