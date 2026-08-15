@@ -129,6 +129,7 @@
   - <i>OTHERS</i>
     -  IKnowWhatYouDownload (torrent downloads and distributions for an IP address) : https://iknowwhatyoudownload.com/en/peer/
     -  UnlistedVideos (find unlisted YouTube videos) : https://unlistedvideos.com/indexm.html
+    - Xquik (Independent X/Twitter search, followers, monitors, MCP): https://github.com/Xquik-dev/x-twitter-scraper
     
 <br>
 
@@ -174,7 +175,7 @@
     - Bing Maps : https://www.bing.com/maps
     - WayBack world map : https://livingatlas.arcgis.com/wayback/
     - NASA world view : https://worldview.earthdata.nasa.gov
-    - Sun calculation map : http://suncalc.net/
+    - Sun calculation map : https://suncalc.net/
     - USA live map : https://usa.liveuamap.com
     - Sentinel Hub : https://apps.sentinel-hub.com/eo-browser/
     - GeoJSON (JSON mapping) : https://geojson.io/
